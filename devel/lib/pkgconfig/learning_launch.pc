@@ -1,0 +1,8 @@
+prefix=/home/zqh/cakin_test/devel
+
+Name: learning_launch
+Description: Description of learning_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zqh/cakin_test/devel/lib 
+Requires: 
